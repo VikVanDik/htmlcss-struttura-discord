@@ -89,14 +89,14 @@ header {
 .img-sec {
   height: 300px;
   border: 1px solid black;
-  width: 70%;
+  width: 65%;
   background-color: red;
 }
 
 .txt-sec {
   height: 300px;
   border: 1px solid black;
-  width: 30%;
+  width: 35%;
 }
 
 .sec-container-big {
