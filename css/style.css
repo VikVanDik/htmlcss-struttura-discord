@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+/* header */
+.head-container {
+  border: 1px solid black;
+  margin: 0 20%;
+  max-width: 1200px;
+  min-width: 700px;
+  text-align: center;
+  background-color: yellow;
+  }
+
+header {
+  background-color: blue;
+  height: 50px;
+}
+
+.span {
+  display: inline-block;
+}
+
+.logo {
+  min-width: 25%;
+  border: 1px dotted black;
+  text-align: left;
+}
+
+.link {
+  border: 1px dotted black;
+  width: 50%;
+  
+ }
+ 
+ .login {
+  min-width: 25%;
+  border: 1px dotted black;
+  text-align: right;
+ }
+
+ .flex-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ }
+
+ 
